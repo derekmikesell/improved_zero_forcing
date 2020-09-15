@@ -9,4 +9,4 @@ Each file defines a graph in edge list format, where the first row is the number
 
 The following shows what the file would look like for the butterfly graph with vertices 0,...,4.
 
-#+INCLUDE: "~/butterfly.edg"
+#+INCLUDE: "./butterfly.edg"
