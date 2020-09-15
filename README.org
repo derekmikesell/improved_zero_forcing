@@ -7,6 +7,6 @@ Each file defines a graph in edge list format, where the first row is the number
 
 ** Example Graph: [[https://en.wikipedia.org/wiki/Butterfly_graph][Butterfly Graph]]
 
-The following shows what the file would look like for the butterfly graph with vertices 0,...,4.
+See https://github.com/derekmikesell/improved_zero_forcing/blob/master/butterfly.edg for what the file would look like for the butterfly graph with vertices 0,...,4.
 
-#+INCLUDE: "./butterfly.edg" example
+
