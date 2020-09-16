@@ -1,5 +1,5 @@
 #+TITLE: improved_zero_forcing
-Data set for the paper "Improved computational approaches and heuristics for zero forcing."
+Set of instances and results for the paper "Improved computational approaches and heuristics for zero forcing."
 
 * Data Format
 
@@ -9,4 +9,6 @@ Each file defines a graph in edge list format, where the first row is the number
 
 See https://github.com/derekmikesell/improved_zero_forcing/blob/master/butterfly.edg for what the file would look like for the butterfly graph with vertices 0,...,4.
 
+** Results Format
 
+Results are in LaTeX table format. The folder name indicates the algorithm used, while the file name indicates the graph set corresponding to the results.
