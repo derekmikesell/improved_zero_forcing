@@ -1,0 +1,9 @@
+karate & 34 & 13 & 0.017 & 0.024 & 0.026 & 0.034 & 0.034 & 0.043 & \cellcolor{blue!25}0.008 & 0.019 & 0.021 \\
+chesapeake & 39 & 14 & 7.774 & 7.996 & 11.785 & \cellcolor{blue!25}2.696 & 2.382 & 4.578 & 2.963 & 3.583 & 4.782 \\
+dolphins & 62 & 14 & \cellcolor{blue!25}157.624 & 188.118 & 429.852 & 883.623 & 1652.455 & T & 165.491 & 222.035 & 373.922 \\
+lesmis & 77 & 40 & 4.576 & 3.544 & 5.873 & 10.192 & 8.06 & 12.168 & 4.539 & \cellcolor{blue!25}3.692 & 5.68 \\
+polbooks & 105 & * & T & T & T & T & T & T & T & T & T \\
+football & 112 & * & T & T & T & T & T & T & T & T & T \\
+celegansneural & 115 & * & T & T & T & T & T & T & T & T & T \\
+adjnoun & 198 & * & T & T & T & T & T & T & T & T & T \\
+jazz & 297 & * & T & T & T & T & T & T & T & T & T \\

@@ -1,0 +1,11 @@
+karate  & 34 & 13 & \textbf{13} & 0.003 & 14 & 0.001 & 14 & 0.002 \\
+chesapeake  & 39 & 14  & \textbf{15} & 0.007 & \textbf{15} & 0.002 & \textbf{15} & 0.002 \\
+dolphins  & 62 & 14 & \textbf{17} & 0.015 & 19 & 0.003 & \textbf{17} & 0.004 \\
+lesmis3  & 77 & 40 & \textbf{41} & 0.040 & \textbf{41} & 0.008 & \textbf{41} & 0.026 \\
+polbooks  & 105 & N\slash A &\textbf{29} & 0.057 & 37 & 0.010 & 34 & 0.020 \\
+adjnoun  & 112 & N\slash A &\textbf{32} & 0.072 & 36 & 0.009 & 43 & 0.017 \\
+football  & 115 & N\slash A &44 & 0.129 & 41 & 0.017 & \textbf{40} & 0.017 \\
+jazz  & 198 &N\slash A & \textbf{103} & 1.468 & 116 & 0.109 & \textbf{103} & 0.451 \\
+celegansneural  & 297 &N\slash A & \textbf{89} & 2.241 & 130 & 0.178 & 101 & 1.292 \\
+
+

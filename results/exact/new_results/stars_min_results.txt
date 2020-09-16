@@ -1,0 +1,10 @@
+\multirow{10}{*}{\rotatebox[origin=c]{90}{Stars}}& 11 & 9 & 0.3 & 0.013 & \textbf{0} & \textbf{0} & \textbf{0}\\ 
+& 21 & 19 & 2234.53 & 0.012 & \textbf{0} & \textbf{0} & \textbf{0}\\ 
+& 31 & 29 & T & 0.025 & \textbf{0} & \textbf{0} &\textbf{0}\\ 
+& 41 & 39 & T & 0.039 & \textbf{0} & \textbf{0} & \textbf{0}\\ 
+& 51 & 49 & T & 0.063 & \textbf{0} & \textbf{0} & \textbf{0}\\ 
+& 61 & 59 & T & 0.14 & \textbf{0} &\textbf{0} & \textbf{0}\\ 
+& 71 & 69 & T & 0.20 & \textbf{0.001} & \textbf{0.001} & \textbf{0.001}\\ 
+& 81 & 79 & T & 0.29 & 0.001 & \textbf{0} & 0.001\\ 
+& 91 & 89 & T & 0.47 & \textbf{0.001} & \textbf{0.001} & \textbf{0.001}\\ 
+& 101 & 99 & T & 0.54 & 0.002 & \textbf{0.001} & \textbf{0.001}\\ 
