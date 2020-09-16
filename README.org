@@ -11,4 +11,4 @@ See https://github.com/derekmikesell/improved_zero_forcing/blob/master/butterfly
 
 * Results Format
 
-Results are in LaTeX table format. The folder name indicates the algorithm used, while the file name indicates the graph set corresponding to the results.
+Results are in LaTeX table format. The folder name indicates the whether the results utilize the exact or heuristic methods, while the file name indicates the graph set corresponding to the results (and the specific algorithm when using the exact method).
